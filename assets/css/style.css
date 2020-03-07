@@ -1,0 +1,216 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+@font-face{
+    font-family: santio-bold;
+    src: url(/assets/santio/santio-bold.ttf);
+}
+
+.hintergrund{
+    background-image: url(/assets/img/cleo-topper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 100vh;
+}
+
+
+.thereAre{
+    position: absolute;
+    top: 3vw;
+    left: 2vw;
+    width: 22vw;
+    color: #efefef ;
+    font-family: 'santio-bold', sans-serif;
+    font-size: 5vw;
+    line-height: 5vw;
+}
+
+.scroll{
+    position: absolute;
+    top: 42.5vw;
+    left: 5vw;
+    color: #e7bc0e;
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 1.3vw;
+
+}
+
+.anIndigenous{
+    position: absolute;
+    top: 80vw;
+    left: 10vw;
+    height: 30vw;
+    width: 55vw;
+    color:#6bc1a3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.9vw;
+    line-height: 3vw;
+}
+
+.stat-workers{
+    position: absolute;
+    top: 150vw;
+    left: 27vw;
+    height: 5vw;
+    width: 5vw;
+}
+
+._25million{
+    position: absolute;
+    top: 150vw;
+    left: 27vw;
+    height: 5vw;
+    width: 40vw;
+    color:#e7bc0e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 6vw;
+    text-transform: uppercase;
+}
+
+.domesticWorkers{
+    position: absolute;
+    top: 161vw;
+    left: 27vw;
+    height: 25vw;
+    width: 50vw;
+    color:#e7bc0e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6vw;
+    text-transform: uppercase;
+}
+
+.stat-pay{
+    position: absolute;
+    top: 180vw;
+    left: 27vw;
+    height: 5vw;
+    width: 5vw;
+}
+
+._70are{
+    position: absolute;
+    top: 185vw;
+    left: 27vw;
+    height: 5vw;
+    width: 40vw;
+    color:#cb91b6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6vw;
+    text-transform: uppercase;
+}
+
+._13Hr{
+    position: absolute;
+    top: 183vw;
+    left: 27vw;
+    height: 25vw;
+    width: 50vw;
+    color:#cb91b6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 6vw;
+    text-transform: uppercase;
+}
+
+.stat-health{
+    position: absolute;
+    top: 210vw;
+    left: 27vw;
+    height: 5vw;
+    width: 5vw;
+}
+
+._65{
+    position: absolute;
+    top: 210vw;
+    left: 27vw;
+    height: 5vw;
+    width: 40vw;
+    color:#6bc1a3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 6vw;
+    text-transform: uppercase;
+}
+
+.haveno{
+    position: absolute;
+    top: 221vw;
+    left: 27vw;
+    height: 25vw;
+    width: 50vw;
+    color:#6bc1a3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6vw;
+    text-transform: uppercase;
+}
+
+.domestic{
+    position: absolute;
+    top: 241vw;
+    left: 27vw;
+    height: 25vw;
+    width: 50vw;
+    color:#7eb8e1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.9vw;
+    text-transform: uppercase;
+    line-height: 3vw;
+}
+
+.kidsImg{
+    position: absolute;
+    top: 270vw;
+    background-color: rgb(197, 197, 197);
+    height: 100vh;
+    width: 100vw;
+}
+
+.bilderKids{
+    position: absolute;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+}
+
+.blackImg{
+    position: absolute;
+    top: 321vw;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    width: 100vw;
+}
+
+.youCan{
+    position: absolute;
+    padding-top: 5vw;
+    left: 10vw;
+    height: 25vw;
+    width: 40vw;
+    color: #efefef ;
+    font-family: 'santio-bold', sans-serif;
+    font-size: 5vw;
+    line-height: 5vw;
+}
+
+.buttonDonate{
+    position: absolute;
+    top: 33vw;
+    left: 10vw;
+    font-size: 1.5vw;
+    color: black;
+    text-decoration: blanchedalmond;
+}
+
+.website{
+    position: absolute;
+    top: 47vw;
+    left: 40vw;
+    color: blanchedalmond;
+}
